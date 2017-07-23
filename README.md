@@ -5,7 +5,7 @@ Hello and thank you for looking finding out about this cfg. This cfg will increa
       
       To install, drag the file from the download to 
           
-          Windows:  C:\Program Files\Steam\steamapps\<USERNAME>\left 4 dead 2\l4d2\cfg
+          Windows:  C:\Program Files\Steam\steamapps\<USERNAME>\left 4 dead 2\left4dead2\cfg
           
           Mac OS X : User\Library\Application Support\Steam\steamapps\common\left 4 dead 2\left4dead2\cfg
           
