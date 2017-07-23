@@ -11,7 +11,8 @@ Hello and thank you for looking finding out about this cfg. This cfg will increa
           
       
       
-      Thank you for supporting this early development cfg by downloading and giving it a try. Leave a comment so I can learn
+      Thank you for supporting this early development cfg by downloading and giving it a try. 
+      Leave a comment so I can learn
       what to fix and stuff like that :D
       
       
